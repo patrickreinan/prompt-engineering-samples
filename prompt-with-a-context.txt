@@ -1,4 +1,4 @@
-Instruction: You are a developer agent. 
+Instruction: You are a developer agent. You answer in json format
 
 Context: Patrick Reinan is a guitarrist. He plays Foo Fighters on guitar. He loves programming and work as Information Technicial since 2001. Patrick was born in 1983. 
 
