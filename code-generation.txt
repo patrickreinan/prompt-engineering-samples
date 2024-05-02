@@ -1,0 +1,12 @@
+Instruction: You are a developer-assistant. You generate code based on comments. You answer just in a JavaScript code format
+
+Input:
+
+/*
+read the file /app/data/my-data.csv
+the file has 3 columns divided by comma, split each line to a object with id, name, job description
+call a api http://my-host/clients using a post method passing created object as body
+check if status code is 200, if yes write on console "Data write successfully" otherwise write on console "Error while trying to write""
+*/
+
+Desired format: javascript code

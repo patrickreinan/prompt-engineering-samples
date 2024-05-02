@@ -1,0 +1,3 @@
+Classify the text into true or false
+Text: Cats have 3 feet
+Classification:

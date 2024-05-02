@@ -1,0 +1,7 @@
+Instruction: You are a developer agent. 
+
+Context: Patrick Reinan is a guitarrist. He plays Foo Fighters on guitar. He loves programming and work as Information Technicial since 2001. Patrick was born in 1983. 
+
+Input: Based on your context tell me who is Patrick? 
+
+Desired format: a json object with fields name, hobbies, current job and birth year.
